@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on AniList - an Anime cataloging site<br>💬 Contact me at ejinsw@gmail.com
+🔭 Currently working on DevConnect - a full-stack developer networking and job matching platform inspired by GitHub and LinkedIn.<br>💬 Contact me at ejinsw@gmail.com<br>🌐 Check out my portfolio at https://www.ejinsw.com/
 
 
 ## 🌐 Socials:
