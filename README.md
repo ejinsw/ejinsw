@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on a full-stack web reader and creator application.<br>💬 Contact me at ejinsw@gmail.com<br>🌐 Check out my portfolio at https://www.ejinsw.com/
+💬 Contact me at ejinsw@gmail.com<br>🌐 Check out my portfolio at https://www.ejinsw.com/
 
 
 ## 🌐 Socials:
